@@ -3,3 +3,6 @@ examples/Switch/.vscode
 examples/Switch/.gitignore
 .vscode/c_cpp_properties.json
 .vscode/settings.json
+
+# le impostazioni personali non vanno nel progetto
+projects/esp32-gps-tracker/src/config_local.h
