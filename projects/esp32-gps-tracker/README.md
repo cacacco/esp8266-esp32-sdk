@@ -1,3 +1,16 @@
+> # ➡️ Il progetto si e' trasferito
+>
+> ### **https://github.com/cacacco/esp32-gps-tracker**
+>
+> Questa cartella e' rimasta come **archivio** e non viene piu' aggiornata.
+> Il repository nuovo ha la stessa storia commit per commit, il progetto
+> alla radice invece che in fondo a tre cartelle, e la documentazione che
+> continua a crescere.
+>
+> Quello che leggi qui sotto e' fermo al 7 novembre 2026.
+
+---
+
 # ESP32 GPS Tracker
 
 **Navigatore e registratore di percorsi per moto**, fatto in casa. Ti porta a
